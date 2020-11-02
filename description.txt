@@ -1,1 +1,1 @@
-Everytime the program is run, the dice is rolled resulting in one of the numbers from 1 to 6. Using random module in Python language.
+Everytime the program is run, the dice is rolled resulting in one of the numbers from 1 to 6. Also guess the number you would get when the dice is rolled. The program asks the user to keep guessing until the correct answer is achieved.
